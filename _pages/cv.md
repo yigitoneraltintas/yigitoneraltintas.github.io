@@ -16,15 +16,13 @@ Education
 
 Professional experience
 ======
-* 09.2020 - 03.2022: Research Assistant
-  * Section 1.4 Remote Sensing, GFZ-Potsdam, Germany
+* 09.2020 - 03.2022: Research Assistant at Section 1.4 Remote Sensing, GFZ-Potsdam, Germany
   * Contributed as a team member to multi-national citizen science project called "Nachtlicht-Bühne", especially on numerical analysis, icon design and GIS work.
   * Created numerous Python scripts for night light data, mostly to make statistical analysis on them.
   * Designed a conference handbook (Artificial Light at Night (ALAN)) and processed feedbacks for more than 100 abstracts. Also presented a poster as the second author.
   * Supervisor: Dr. Christopher Kyba
 
-* Summer 2018: Erasmus + Intern
-  * Institute Of Geosciences, University Of Graz, Austria
+* Summer 2018: Erasmus + Intern at Institute Of Geosciences, University Of Graz, Austria
   * Developed theoretical knowledge for remote sensing as a subject with strong interest on radar remote sensing.
   * Supervisor: Prof. Kurt Stüwe
   
