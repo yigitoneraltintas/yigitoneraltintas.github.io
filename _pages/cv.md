@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * M.S. in Remote Sensing, University of Potsdam, 2022
+  * Thesis: "Measuring high-resolution surface deformation signals in Turkey using Sentinel-1 radar interferometry". For my thesis, I've been mostly working with open-source active radar data to extract SAR interferometry information to detect high-resolution (spatial + temporal) surface deformation changing in time.
 * B.S. in Geological Engineering, Ankara University, 2019
 
 Professional experience
