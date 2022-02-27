@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiğit Öner Altıntaş"
+title                    : "yigit.rocks!"
 title_separator          : "-"
 name                     : &name "Yiğit Öner Altıntaş"
 description              : &description "personal description"
