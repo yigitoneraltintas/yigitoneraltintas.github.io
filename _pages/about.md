@@ -7,9 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+**Hello!** Yigit here, this is my small static website that I'm hosting at Github pages. </br>I'm MSc student (soon to be graduating), doing mostly remote sensing and geoinformation. </br>I'll try to populate this page as my career goes.  
+</br>
 
 ### Research Interests
-
+* Earth observation data analysis
+* Remote sensing
 * Global tectonics
 * Surface deformation
 * InSAR time-series
