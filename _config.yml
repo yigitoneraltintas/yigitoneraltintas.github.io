@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "yigit.rocks!"
 title_separator          : "-"
 name                     : &name "Yiğit Öner Altıntaş"
-description              : &description "personal description"
+description              : &description "yigit.rocks!"
 url                      : https://yigitoneraltintas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yigitoneraltintas/yigitoneraltintas.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yiğit Öner Altıntaş"
   avatar           : "profile.png"
-  bio              : Master's student at Uni-Potsdam in remote sensing & Research assistant at GFZ-Potsdam in remote sensing section
+  bio              : Master's Student at Uni-Potsdam in Remote Sensing & Research Assistant at GFZ-Potsdam in Remote Sensing Section
   location         : "Potsdam, Germany"
   employer         : 
   pubmed           : 
