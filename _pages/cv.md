@@ -20,7 +20,7 @@ Education
 
 Professional experience
 ======
-* 04.2022 - 05.2022: Researcher at Section 1.4 Remote Sensing, GFZ-Potsdam, Germany [Full-Time]
+* 04.2022 - 05.2022: Research Assistant at Section 1.4 Remote Sensing, GFZ-Potsdam, Germany [Full-Time]
   * Contributing to multiple analysis of citizen science projects "Nachtlicht-Bühne" and "Globe at Night".
   * Supervisor: Dr. Christopher Kyba
 
