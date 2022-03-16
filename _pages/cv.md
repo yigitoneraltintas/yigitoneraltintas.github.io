@@ -9,17 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-
 ## Education
-
 * MSc in Remote Sensing, University of Potsdam, 03.2022
   * Thesis: "Measuring high-resolution surface deformation signals in Turkey using Sentinel-1 radar interferometry". For my thesis, I've been mostly working with open-source active radar data to extract SAR interferometry information to detect high-resolution (spatial + temporal) surface deformation changing in time. [go thesis section](https://yigit.rocks/thesis/)
   * Supervisors: Dr. Jonathan R. Weiss and Prof. Bodo Bookhagen
 * BSc in Geological Engineering, Ankara University, 02.2019
 
-
 ## Professional experience
-
 * 04.2022 - 05.2022: Research Assistant at Section 1.4 Remote Sensing, GFZ-Potsdam, Germany [Full-Time]
   * Contributing to multiple analysis of citizen science projects "Nachtlicht-Bühne" and "Globe at Night".
   * Supervisor: Dr. Christopher Kyba
@@ -34,9 +30,7 @@ redirect_from:
   * Developed theoretical knowledge for remote sensing as a subject with strong interest on radar remote sensing.
   * Supervisor: Prof. Kurt Stüwe
   
-  
 ## Skills
-
 * Technical
   * Experience with remote sensing data analysis and scripting on MATLAB and Python.
   * Broad experience on GIS and visualization with QGIS.
