@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div style="text-align: justify">
+
 ## Education
 * MSc in Remote Sensing, University of Potsdam, 03.2022
   * Thesis: "Measuring high-resolution surface deformation signals in Turkey using Sentinel-1 radar interferometry". For my thesis, I've been mostly working with open-source active radar data to extract SAR interferometry information to detect high-resolution (spatial + temporal) surface deformation changing in time. [go thesis section](https://yigit.rocks/thesis/)
@@ -40,4 +40,3 @@ redirect_from:
   * English - Full professional proficiency
   * Turkish - Native
   * German - Elementary proficiency
-</div>
