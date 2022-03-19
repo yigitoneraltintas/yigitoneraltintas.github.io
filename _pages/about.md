@@ -11,7 +11,7 @@ Hello! Yigit here, this is my small static website hosted at Github pages. I'm a
 
 ### Research Interests
 * Remote Sensing
-* EO Data Analysis
+* Geospatial Data Analysis
 * Surface Deformation
 * InSAR Time-Series
 * Light pollution
