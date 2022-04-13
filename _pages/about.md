@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Yiğit here, this is my small static website hosted at Github pages. I'm a MSc student, interested in surface deformation and geographical data analysis. I also do lots of visualizing/analysis for a citizen science project called "Nachtlicht-BüHNE". I'll try to populate this page as my career goes.
+Hello! Yiğit here, this is my small static website hosted at Github pages. I'm a recent graduate, interested in surface deformation and geographical data analysis. I also do lots of visualizing/analysis for a citizen science project called "Nachtlicht-BüHNE". I'll try to populate this page as my career goes.
 
 ### Research Interests
 * Remote Sensing
