@@ -27,16 +27,6 @@ redirect_from:
   * Supervisor: Dr. Christopher Kyba
 
 * Summer 2018: Erasmus + Intern at Institute Of Geosciences, University Of Graz, Austria
-  * Developed theoretical knowledge for remote sensing as a subject with strong interest on radar remote sensing.
+  * Worked on multiple aspects geomorphological analysis of Styria, Austria.
   * Supervisor: Prof. Kurt Stüwe
   
-## Skills
-* Technical
-  * Experience with remote sensing data analysis and scripting on MATLAB and Python.
-  * Broad experience on GIS and visualization with QGIS.
-  * Experience with Linux-like systems, shell scripting and version control (git).
-  * Experience with advanced time-series of earth observation data, especially with fitting – segmenting aspect.
-* Languages
-  * English - Full professional proficiency
-  * Turkish - Native
-  * German - Elementary proficiency
