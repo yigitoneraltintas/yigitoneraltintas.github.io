@@ -22,3 +22,4 @@ author_profile: true
 6 years evolution of a segment in North Anatolian Fault (NAF), extracted from Sentinel-1 SAR time-series. Green plot is difference between swaths centered at 300 m, taken from either side of the NAF. Five potential creep bursts are shown. Linear fitting has been applied in-between red dashed lines. Red dashed lines show 3-months temporal seperation. (<b>Fig. 5.8</b> of my thesis)
 
 *My thesis did not thoroughly peer reviewed as a journal article and is an immature work. Keep in mind that the thesis may contain errors!
+*Alternative link for the [thesis pdf](https://drive.google.com/file/d/1etv4oANdas53TNSRzHc2-03cDJWwOt6V/view?usp=sharing)
