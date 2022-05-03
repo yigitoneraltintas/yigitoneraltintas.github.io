@@ -19,7 +19,7 @@ author_profile: true
 (Thesis was submitted on 24.02.2022)  
 (Thesis was successfully defended on 13.04.2022)
 ![](/images/thesis1.png)
-6 years evolution of a segment in North Anatolian Fault (NAF), extracted from Sentinel-1 SAR time-series. Green plot is difference between swaths centered at 300 m, taken from either side of the NAF. Five potential creep bursts are shown. Linear fitting has been applied in-between red dashed lines. Red dashed lines show 3-months temporal seperation. (<b>Fig. 5.8</b> of my thesis)
+6 years evolution of a segment in North Anatolian Fault (NAF), extracted from Sentinel-1 SAR time-series. Green plot is difference between swaths centered at 300 m, taken from either side of the NAF. Five potential creep bursts are shown. Linear 3-months temporal fitting has been applied in-between red dashed lines. (<b>Fig. 5.8</b> of my thesis)
 
 *My thesis did not thoroughly peer reviewed as a journal article and is an immature work. Keep in mind that the thesis may contain errors!
 
