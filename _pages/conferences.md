@@ -9,7 +9,9 @@ author_profile: true
 {% include base_path %}
 
 **[Light Pollution: Theory, Modelling and Measurements (LPTMM), 2022](https://martinaube.wixsite.com/lptmm)**<br/>
-Stay tuned!<br/>
+Numbers and types of light sources in urban areas.<br/>
+Christopher C. M. Kyba, **Yiğit Öner Altıntaş**, Georg Sulzer, Sicco Bauer, Nachtlicher
+Team<br/>
 
 **[Artificial Light at Night (ALAN), 2021](http://www.artificiallightatnight.org)**<br/>
 Nachtlicht-BüHNE: update on the German citizen science project to create large area lighting surveys.<br/>
