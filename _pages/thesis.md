@@ -23,4 +23,4 @@ author_profile: true
 
 *My thesis did not thoroughly peer reviewed as a journal article and is an immature work. Keep in mind that the thesis may contain errors!
 
-*Alternative link for the [thesis pdf](https://drive.google.com/file/d/1etv4oANdas53TNSRzHc2-03cDJWwOt6V/view?usp=sharing)
+*Alternative link for the [thesis pdf](https://drive.google.com/file/d/1etv4oANdas53TNSRzHc2-03cDJWwOt6V/view?usp=sharing).
