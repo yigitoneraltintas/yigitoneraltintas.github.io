@@ -20,7 +20,7 @@ redirect_from:
   * Contributing to multiple analysis of citizen science projects "Nachtlicht-Bühne" and "Globe at Night".
   * Supervisor: Dr. Christopher Kyba
 
-* 10.2020 - 03.2022: Student Assistant at Section 1.4 Remote Sensing, GFZ-Potsdam, Germany [Part-Time]
+* 09.2020 - 03.2022: Student Assistant at Section 1.4 Remote Sensing, GFZ-Potsdam, Germany [Part-Time]
   * Contributed as a team member to multi-national citizen science project "Nachtlicht-Bühne", especially on numerical analysis, icon design and GIS work.
   * Created numerous Python scripts for night light data.
   * Designed a conference handbook (Artificial Light at Night (ALAN)) and processed feedbacks for more than 100 abstracts.
