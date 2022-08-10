@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* MSc in Remote Sensing, geoInformation and Visualization (RSIV), University of Potsdam, 04.2022
+* MSc in Remote Sensing, geoInformation and Visualization (RSIV), University of Potsdam, Germany,  04.2022
   * Thesis: "Measuring high-resolution surface deformation signals in Turkey using Sentinel-1 radar interferometry". On my thesis, I've been mostly working with open-source active radar data to extract SAR interferometry to detect high-resolution (spatial + temporal) surface deformation changing in time. [go thesis section](https://yigit.rocks/thesis/)
   * Supervisors: Dr. Jonathan R. Weiss & Prof. Bodo Bookhagen
-* BSc in Geological Engineering, Ankara University, 02.2019
+* BSc in Geological Engineering, Ankara University, Turkey, 02.2019
 
 ## Professional experience
 * 04.2022 - 05.2022: Researcher at Section 1.4 Remote Sensing, German Research Centre for Geosciences (GFZ-Potsdam), Germany [Full-Time]
