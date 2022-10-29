@@ -11,9 +11,8 @@ redirect_from:
 
 ## Professional experience
 * 08.2022 - present: Earth Observation Data Services Engineer at EUMETSAT via Innoflair, Darmstadt, Germany [Contractor]
-  * Supplying service to EUMETSAT for user data access support and operations.
-  * Running operations of EUMETSAT's online pull data access services (Data Store, Data Tailor and EUMETView).
-  * Working on EUMETSAT's cloud based processing environment called "European Weather Cloud" (EWC).
+  * Second line user support and operations for EUMETSAT's new online pull user data access services. (Data Store, Data Tailor and EUMETView)
+  * User support for EUMETSAT's cloud based processing environment called European Weather Cloud (EWC).
 
 * 04.2022 - 05.2022: Researcher at Section 1.4 Remote Sensing, German Research Centre for Geosciences (GFZ-Potsdam), Germany [Full-Time]
   * Contributing to multiple analysis of citizen science projects "Nachtlicht-Bühne" and "Globe at Night".
