@@ -12,8 +12,8 @@ Hello! Yiğit here, this is my small static website, hosted at Github pages. I'm
 ### Research Interests
 * Remote sensing
 * Geospatial data analysis
-* Surface deformation
-* Tectonic geodesy
+* Cloud computing
 * Light pollution
+* Tectonic geodesy
 
 
