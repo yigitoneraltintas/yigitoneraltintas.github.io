@@ -8,12 +8,12 @@ main:
 
   - title: "Thesis"
     url: /thesis/
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Trainings"
     url: /trainings/
+    
+  - title: "CV"
+    url: /cv/
     
  # - title: "Portfolio"
   #  url: /portfolio/
