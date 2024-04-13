@@ -10,7 +10,7 @@ author_profile: true
 Here are a couple of training recordings in which I primarily handled the live demonstration parts:  
 
 ### European Weather Cloud (EWC)
-1. **Introduction to EWC:** This webinar targets new or prospective users of the EWC service, introducing the basics of using the Morpheus cloud portal. It covers key operations such as deploying instances, utilizing the object store, and implementing basic automation.  
+1. **Introduction to EWC:** This webinar targets new or prospective users of the EWC service, introducing the basics of using the Morpheus cloud portal. It covers essential operations such as deploying instances, making use of the object storage, and implementing basic automation.  
 [![European Weather Cloud (EWC): Navigating the Essentials - EUMETSAT focused webinar](http://img.youtube.com/vi/s6r2unH4KH8/0.jpg)](http://www.youtube.com/watch?v=s6r2unH4KH8 "Introduction to EWC")
 2. **EUMETSAT Data Access Services (DAS) in EWC:** In this webinar, participants will get information on cloud functionalities, focusing on virtual machine provisioning, configuration, and accessing the EUMETSAT data catalogue via the Data Access Client. Additionally, we will demonstrate the use of Data Tailor, a pre-installed application that allows customization of datasets to meet user needs.  
 [![Using the European Weather Cloud to download data from the EUMETSAT Data Access Services](http://img.youtube.com/vi/LuW_ZCiX4PU/0.jpg)](http://www.youtube.com/watch?v=LuW_ZCiX4PU "EUMETSAT Data Access Services (DAS) in EWC")
