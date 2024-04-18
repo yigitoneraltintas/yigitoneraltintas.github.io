@@ -16,7 +16,7 @@ Here are a couple of training recordings in which I primarily handled the live d
 [![Using the European Weather Cloud to download data from the EUMETSAT Data Access Services](http://img.youtube.com/vi/LuW_ZCiX4PU/0.jpg)](http://www.youtube.com/watch?v=LuW_ZCiX4PU "EUMETSAT Data Access Services (DAS) in EWC")
 
 ### EUMETSAT Data Access Services
-1. **EUMDAC introduction:**: This webinar is the second session of a comprehensive course on EUMETSAT Data Access Client (EUMDAC). It shows the installations of conda environments and EUMETSAT Data Access Client (EUMDAC) and basic usage of EUMETSAT Data Access Client (EUMDAC).  
+1. **EUMDAC introduction:** This webinar is the second session of a comprehensive course on EUMETSAT Data Access Client (EUMDAC). It shows the installations of conda environments and EUMETSAT Data Access Client (EUMDAC) and basic usage of EUMETSAT Data Access Client (EUMDAC).  
 [![EUMDAC Long Course NR. 2 - Installations of Conda Environment and EUMDAC and Basic Usage](http://img.youtube.com/vi/W8QNtbujNCQ/0.jpg)](http://www.youtube.com/watch?v=W8QNtbujNCQ "EUMDAC Long Course 2")
 2. **Advanced EUMDAC Usage:** This webinar is the third session of a comprehensive course on EUMETSAT Data Access Client (EUMDAC). It picks up from the installation of EUMDAC and show advanced usage on CLI. 
 [![EUMDAC Long Course NR. 3 - Advanced EUMDAC Usage](http://img.youtube.com/vi/CkJvx4wGgT8/0.jpg)](http://www.youtube.com/watch?v=CkJvx4wGgT8 "EUMDAC Long Course 3")
