@@ -22,6 +22,8 @@ Here are a couple of training recordings in which I primarily handled the live d
 [![EUMDAC Long Course NR. 3 - Advanced EUMDAC Usage](http://img.youtube.com/vi/CkJvx4wGgT8/0.jpg)](http://www.youtube.com/watch?v=CkJvx4wGgT8 "EUMDAC Long Course 3")
 3. **Using EUMETSAT Data Access Services with Jupyter Notebooks:** This webinar, provides a tutorial on utilizing Jupyter Notebooks for accessing and working with data from EUMETSAT's Data Access Services. The video aims to assist users in effectively managing and analyzing satellite data through this platform.  
 [![How to use EUMETSAT Data Access Services Jupyter Notebooks](http://img.youtube.com/vi/T0DZ3VxwIMw/0.jpg)](http://www.youtube.com/watch?v=T0DZ3VxwIMw "EUMETSAT Data Access Services with Jupyter Notebooks")
+4. **Downloading MTG LI products with EUMDAC (Part of Data Access Services for Africa Training):** This training part of Data Access Services for Africa training, focuses on EUMDAC CLI usage for describing, searching, downloading and tailoring satellite products with a section for downloading MTG LI products.
+[![DAS for Africa - Session 2 - EUMDAC CLI](http://img.youtube.com/vi/bSJTsszDONw/0.jpg)](https://www.youtube.com/watch?v=bSJTsszDONw "How to download MTG LI products with EUMDAC")
 
 ### Advanced Data Tailor Standalone
 1. **How to use Data Tailor Standalone, basics:** This tutorial focuses on the fundamentals of using the Data Tailor Standalone application. It is part of a course aimed at helping users understand and effectively utilize this tool for data customization.  

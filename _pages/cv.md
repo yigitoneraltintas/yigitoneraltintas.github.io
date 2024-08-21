@@ -31,6 +31,8 @@ redirect_from:
   * Worked on number of numerical geomorphological analysis methods for state of Styria, Austria.
   * Supervisor: Prof. Kurt Stüwe
   
+* **Summer 2017:** Intern at Turkiye Petrolleri A.O., Ankara, Turkey [Intern]
+
 ## Education
 * **MSc in Remote Sensing, geoInformation and Visualization (RSIV)**, University of Potsdam, Germany,  04.2022
   * Thesis: "Measuring high-resolution surface deformation signals in Turkey using Sentinel-1 radar interferometry". On my thesis, I've been mostly working with open-source active radar data to extract SAR interferometry to detect high-resolution (spatial + temporal) surface deformation changing in time. [go thesis section](https://yigit.rocks/thesis/)
