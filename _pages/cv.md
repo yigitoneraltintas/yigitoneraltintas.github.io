@@ -15,7 +15,7 @@ redirect_from:
   * Providing training on the use of ECMWF’s computing platforms and software to users inside ECMWF, and in Member and Cooperating States.
   * Supporting ECMWF's cloud-based processing environment called the European Weather Cloud (EWC).
 
-* **08.2022 - 08.2024:** Earth Observation Data Services Engineer at EUMETSAT (European Organization for the Exploitation of Meteorological Satellites) via Innoflair, Darmstadt, Germany [Contractor]
+* **08.2022 - 08.2024:** Earth Observation Data Services Engineer at EUMETSAT (European Organization for the Exploitation of Meteorological Satellites) via Innoflair, Darmstadt, Germany [Full-Time]
   * Providing user and operations support for EUMETSAT's data access services (Data Store, Data Tailor, and EUMETView).
   * Supporting EUMETSAT's cloud-based processing environment called the European Weather Cloud (EWC).
   * Administering EUMETSAT training team's infrastructure, with a focus on maintenance of VMs, authentication of users, and deploying new services.
