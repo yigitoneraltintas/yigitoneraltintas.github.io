@@ -19,7 +19,7 @@ redirect_from:
   * Providing user and operations support for EUMETSAT's data access services (Data Store, Data Tailor, and EUMETView).
   * Supporting EUMETSAT's cloud-based processing environment called the European Weather Cloud (EWC).
   * Administering EUMETSAT training team's infrastructure, with a focus on maintenance of VMs, authentication of users, and deploying new services.
-  * Given various trainings for data access services & applications and usage on European Weather Cloud (EWC).
+  * Provided training on EUMETSAT Data Access Services, Data Tailor software, and various applications of the European Weather Cloud (EWC).
 
 * **09.2020 - 05.2022:** Research Assistant at Section 1.4 Remote Sensing, German Research Centre for Geosciences (GFZ-Potsdam), Germany [Part-Time, last two months as Full-Time]
   * Contributed as a team member to multi-national citizen science projects, "Nachtlicht-Bühne" and "Globe at Night", especially on numerical analysis, icon design and GIS work.
