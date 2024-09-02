@@ -12,8 +12,6 @@ Hello! Yiğit here, and this is my small static website hosted on GitHub Pages. 
 ### Professional and Research Interests
 * Remote sensing
 * Cloud computing
-* Earth observation data services
+* EO datasets
 * Light pollution
 * Tectonic geodesy
-
-
