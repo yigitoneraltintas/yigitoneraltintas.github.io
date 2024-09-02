@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+x:
   username               : yigitoa
 facebook:
   username               :
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yiğit Öner Altıntaş"
   avatar           : "profile.png"
-  bio              : EO Data Services Engineer at EUMETSAT via Innoflair.
-  location         : "Darmstadt, Germany"
+  bio              : "Computing and Software Support Specialist at ECMWF."
+  location         : "Bonn, Germany"
   employer         : 
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=l5GXOzAAAAAJ
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yigitoneraltintas"
+  github           : # "yigitoneraltintas"
   google_plus      :
   keybase          :
   instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : yigitoneraltintas
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0002-0140-2410"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
