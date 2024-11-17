@@ -1,6 +1,17 @@
+# Ignore the contents of the _site directory and other cache directories
 .DS_Store
 _includes/.DS_Store
 assets/.DS_Stor
 e_site/
 yigitoneraltintas.github.io.code-workspace
+.sass-cache/
 
+# Ignore the directory for local files during development
+local/
+
+# Ignore the Gemfile that is generated
+Gemfile.lock
+
+# Ingore files created by npm
+node_modules
+package-lock.json
