@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Computing and Software Support Specialist at ECMWF."
   location         : "Bonn, Germany"
-  employer         : [ECMWF](https://www.ecmwf.int/en/about/who-we-are/staff-profiles/yigit-altintas)
-  uri              : # URL
+  employer         : ECMWF
+  uri              : https://www.ecmwf.int/en/about/who-we-are/staff-profiles/yigit-altintas
   email            : "yigit@yigit.rocks" 
 
   # Academic websites
