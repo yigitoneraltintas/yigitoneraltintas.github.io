@@ -13,7 +13,7 @@ redirect_from:
 * **09.2024 - present:** Computing and Software Support Specialist at ECMWF (European Centre for Medium-Range Weather Forecasts), Bonn, Germany [Full-Time]
   * Providing technical advice and support on the use of ECMWF computing facilities, cloud services, data access and archiving services and software.
   * Providing training on the use of ECMWF’s computing platforms and software to users inside ECMWF, and in Member and Cooperating States.
-  * Supporting ECMWF's cloud-based processing environment called the European Weather Cloud (EWC).
+  * Supporting ECMWF's aim for switching to open data.
 
 * **08.2022 - 08.2024:** Earth Observation Data Services Engineer at EUMETSAT (European Organization for the Exploitation of Meteorological Satellites) via Innoflair, Darmstadt, Germany [Full-Time]
   * Providing user and operations support for EUMETSAT's data access services (Data Store, Data Tailor, and EUMETView).
