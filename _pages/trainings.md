@@ -9,7 +9,7 @@ author_profile: true
 
 Here are a couple of training recordings that I contributed to.:  
 
-### ECMWF Data Access Serices
+### ECMWF Data Access Services
 1. **Introduction to ECMWF Production Data Store (ECPDS):**  
 This webinar focuses on ECMWF's Production Data Store (ECPDS), which enables users to receive and manage real-time forecast data through various transfer protocols (FTP, SFTP, etc.). It also allows users to monitor and control data transmissions, including pausing, restarting, and re-queuing transfers. With requirements set in PREd, ECPDS generates and disseminates the requested data to your destination.   
 [![Introduction to ECMWF Production Data Store (ECPDS)](http://img.youtube.com/vi/yDjFgUnnyT8/0.jpg)](https://www.youtube.com/watch?v=yDjFgUnnyT8 "Introduction to ECMWF Production Data Store (ECPDS)")
