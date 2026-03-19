@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Yiğit here, and this is my small static website hosted on GitHub Pages. I work as a Computing and Software Support Specialist at ECMWF. My interests include geospatial data and cloud-native computing. I also create numerous graphs and conduct analyses for various citizen science projects related to light pollution.
+Hello! Yiğit here, and this is my small static website hosted on GitHub Pages. I work as a Computing and Software Support Specialist at ECMWF, where I focus on data dissemination services, computing infrastructure, and operational forecasting systems. Previously, I worked on Earth observation data services at EUMETSAT and contributed to citizen science research on light pollution at GFZ-Potsdam.
 
 ### Professional and Research Interests
-* Remote sensing
-* Cloud computing
-* EO datasets
+* Data dissemination and access services
+* Cloud computing and HPC
+* Numerical weather prediction systems
+* Earth observation datasets
+* Remote sensing and tectonic geodesy
 * Light pollution
-* Tectonic geodesy

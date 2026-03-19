@@ -9,10 +9,21 @@ author_profile: true
 
 Here are a couple of training recordings that I contributed to.:  
 
-### ECMWF Data Access Services
-1. **Introduction to ECMWF Production Data Store (ECPDS):**  
-This webinar focuses on ECMWF's Production Data Store (ECPDS), which enables users to receive and manage real-time forecast data through various transfer protocols (FTP, SFTP, etc.). It also allows users to monitor and control data transmissions, including pausing, restarting, and re-queuing transfers. With requirements set in PREd, ECPDS generates and disseminates the requested data to your destination.   
+### ECMWF Data Access
+1. **Introduction to ECMWF Production Data Store (ECPDS):**
+This webinar focuses on ECMWF's Production Data Store (ECPDS), which enables users to receive and manage real-time forecast data through various transfer protocols (FTP, SFTP, etc.). It also allows users to monitor and control data transmissions, including pausing, restarting, and re-queuing transfers. With requirements set in PREd, ECPDS generates and disseminates the requested data to your destination.
 [![Introduction to ECMWF Production Data Store (ECPDS)](http://img.youtube.com/vi/yDjFgUnnyT8/0.jpg)](https://www.youtube.com/watch?v=yDjFgUnnyT8 "Introduction to ECMWF Production Data Store (ECPDS)")
+2. **IFS Cycle 50r1 and AIFS v2 webinar: Data access and format, testing and practicalities:**
+This webinar covers the data access and format changes, testing procedures, and practical considerations introduced with the IFS Cycle 50r1 and AIFS v2 upgrades at ECMWF.
+[![IFS Cycle 50r1 and AIFS v2 webinar: Data access and format, testing and practicalities](http://img.youtube.com/vi/RMN1O0nLbbE/0.jpg)](https://www.youtube.com/watch?v=RMN1O0nLbbE "IFS Cycle 50r1 and AIFS v2 webinar: Data access and format, testing and practicalities")
+
+### ecCodes
+1. **Introduction to ECMWF Computing Services 2025: GRIB decoding with ecCodes - Part 1:**
+This training, part of the Introduction to ECMWF Computing Services 2025 course, covers the basics of GRIB decoding using ecCodes. It introduces essential command-line tools such as grib_ls, grib_dump, and grib_get_data for inspecting and extracting data from GRIB files.
+[![Introduction to ECMWF Computing Services 2025: GRIB decoding with ecCodes - Part 1](http://img.youtube.com/vi/dhS1YoE5GI4/0.jpg)](https://www.youtube.com/watch?v=dhS1YoE5GI4 "GRIB decoding with ecCodes - Part 1")
+2. **Introduction to ECMWF Computing Services 2025: GRIB decoding with ecCodes - Part 2:**
+This second part of the ecCodes training covers more advanced operations including grib_copy, grib_set, grib_to_netcdf, and a brief introduction to the Python API for ecCodes.
+[![Introduction to ECMWF Computing Services 2025: GRIB decoding with ecCodes - Part 2](http://img.youtube.com/vi/QyvdNmIiTzI/0.jpg)](https://www.youtube.com/watch?v=QyvdNmIiTzI "GRIB decoding with ecCodes - Part 2")
 
 ### European Weather Cloud (EWC)
 1. **Introduction to EWC:** This webinar targets new or prospective users of the EWC service, introducing the basics of using the Morpheus cloud portal. It covers essential operations such as deploying instances, making use of the object storage, and implementing basic automation.  
